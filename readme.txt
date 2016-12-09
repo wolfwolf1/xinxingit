@@ -5,4 +5,4 @@ dssda
 dsdffsd;af;v
 sdaf
 today
-
+Git has a mutable index called stage
